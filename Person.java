@@ -20,4 +20,8 @@ public class Person{
   	return this.name;
   }
 
+  public String toString(){
+  	return this.name+this.age;
+  }
+
 }
