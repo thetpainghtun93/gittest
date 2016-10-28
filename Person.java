@@ -11,4 +11,12 @@ public class Person{
   	this.age = age;
   }
 
+  public int getAage(){
+  	return this.age;
+  }
+  
+  public String getName(){
+  	return this.name;
+  }
+
 }
