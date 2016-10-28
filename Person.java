@@ -21,6 +21,7 @@ public class Person{
   	return this.name;
   }
   
+  //overrid toString method of Object class
   @Override
   public String toString(){
   	return this.name+this.age;
