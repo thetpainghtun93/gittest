@@ -1,3 +1,4 @@
+// represen the person dto
 public class Person{
 
   private String name;
