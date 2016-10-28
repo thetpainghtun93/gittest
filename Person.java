@@ -1,4 +1,4 @@
-// represen the person dto
+// represen the person dto(also called pojo)
 public class Person{
 
   private String name;
